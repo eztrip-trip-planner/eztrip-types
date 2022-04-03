@@ -1,10 +1,10 @@
 {
     "name": "@eztrip/ts-types",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "5exyGuy",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/eztrip-trip-planner/eztrip-ts-typesgit"
+        "url": "git+https://github.com/eztrip-trip-planner/eztrip-ts-types.git"
     },
     "bugs": {
         "url": "https://github.com/eztrip-trip-planner/eztrip-ts-typesissues"
