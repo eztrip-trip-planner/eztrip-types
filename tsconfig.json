@@ -1,0 +1,30 @@
+{
+    "compilerOptions": {
+        "lib": ["ESNext"],
+        "module": "CommonJS",
+        "target": "ESNext",
+
+        "strict": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "alwaysStrict": true,
+        "allowUnusedLabels": false,
+        "allowUnreachableCode": false,
+        "exactOptionalPropertyTypes": true,
+        "noFallthroughCasesInSwitch": true,
+        "noImplicitOverride": true,
+        "noImplicitReturns": true,
+        "noPropertyAccessFromIndexSignature": true,
+        "noUncheckedIndexedAccess": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "importsNotUsedAsValues": "error",
+        "checkJs": true,
+        "useDefineForClassFields": true,
+
+        "noEmit": true,
+        "declaration": true
+    },
+    "include": ["src/**/*.ts"]
+}
