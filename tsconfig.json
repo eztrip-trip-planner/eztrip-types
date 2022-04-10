@@ -15,8 +15,8 @@
         "noFallthroughCasesInSwitch": true,
         "noImplicitOverride": true,
         "noImplicitReturns": true,
-        "noPropertyAccessFromIndexSignature": true,
-        "noUncheckedIndexedAccess": true,
+        "noPropertyAccessFromIndexSignature": false,
+        "noUncheckedIndexedAccess": false,
         "noUnusedLocals": true,
         "noUnusedParameters": true,
         "importsNotUsedAsValues": "error",
@@ -26,5 +26,5 @@
         "noEmit": true,
         "declaration": true
     },
-    "include": ["index.d.ts"]
+    "include": ["index.d.ts", "**/*.d.ts"]
 }
